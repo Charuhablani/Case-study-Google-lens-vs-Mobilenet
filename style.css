@@ -1,0 +1,13 @@
+.div-container {
+    width: 80%;
+    height: 50%;
+    background: grey;
+}
+.img-responsive{
+    width: 40%;
+    height: 50%;
+}
+span{
+    display: inline;
+    width: 40%;
+}
